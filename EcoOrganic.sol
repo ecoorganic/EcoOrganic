@@ -1,8 +1,4 @@
 /**
- *Submitted for verification at BscScan.com on 2021-07-11
-*/
-
-/**
  * Website: https://ecoorganic.cc/
  * Github: https://github.com/ecoorganic/
  */
